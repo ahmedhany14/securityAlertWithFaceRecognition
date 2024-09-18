@@ -47,7 +47,7 @@ class controller:
 
                 if someone_detected:
                     self.send_messege(len(someone_detected))
-
+                    self.delete_unknown_faces()
                     break
 
                 break
