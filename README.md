@@ -33,7 +33,7 @@ This repository contains the implementation of a Security Alert System that util
 - [pandas](https://pandas.pydata.org/docs/) for datasets
 - [cv2](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) For images
 - [ultralytics](https://docs.ultralytics.com/guides/) For YOLO model
-- [face_recognition] (https://pypi.org/project/face-recognition/) For detect the unknown faces
+- [face_recognition]https://pypi.org/project/face-recognition/) For detect the unknown faces
 - [os](https://docs.python.org/3/library/os.html) For control the dirictories 
 
 
