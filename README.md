@@ -1,5 +1,3 @@
-# securityAlertWithFaceRecognition
-
 <br />
 <p align="center">
 
