@@ -57,6 +57,7 @@ This repository contains the implementation of a Security Alert System that util
 
 ## Usage 
 
+    cd src
     python controller.py
 
 ## How It Works
